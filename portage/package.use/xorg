@@ -1,0 +1,6 @@
+# required by media-libs/mesa-23.1.9::gentoo[-video_cards_r300,-video_cards_r600,-video_cards_radeon,video_cards_radeonsi]
+# required by media-libs/libepoxy-1.5.10-r2::gentoo[egl]
+# required by x11-base/xorg-server-21.1.10-r1::gentoo[-minimal]
+# required by x11-drivers/xf86-input-libinput-1.4.0::gentoo
+# required by x11-base/xorg-drivers-21.1-r2::gentoo[input_devices_libinput]
+>=x11-libs/libdrm-2.4.118 video_cards_radeon

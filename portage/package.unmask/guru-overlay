@@ -1,0 +1,3 @@
+app-shells/direnv::guru
+dev-util/bash-language-server::guru
+dev-util/lua-language-server::guru

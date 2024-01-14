@@ -1,0 +1,2 @@
+app-editors/emacs jit gui gtk xft dynamic-loading dbus cairo alsa imagemagick harfbuzz jpeg png threads tree-sitter
+sys-devel/gcc jit
